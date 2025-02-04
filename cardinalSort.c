@@ -1,9 +1,9 @@
 /*------------------------------------------
  Student’s Name: Idris Warfa
  Assignment #1 - Milestone 1
- Lab Section: [Your Lab Section]
- Lab Instructor’s Name: [Instructor’s Name]
- Lecture Instructor’s Name: [Lecture Instructor’s Name]
+ Lab Section: [X02L]
+ Lab Instructor’s Name: [Salwa Abougamila]
+ 
 --------------------------------------------*/
 
 #include <stdio.h>
